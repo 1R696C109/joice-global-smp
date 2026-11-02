@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Ksatria Hitung: Rahasia 4 Permata Aritmatika",
+  "description": "Game petualangan fiksi interaktif berbasis teks untuk anak-anak menguasai dan menghafal perkalian 6 sampai 9 dengan trik jembatan keledai, jarimatika, rima, dan teka-teki seru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
